@@ -1,5 +1,3 @@
-Module 8 Journal
-
 # Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 The Gaming Room was the client and they wanted to take their current Android app, Draw It or Lose It, and develop it into a web-based game that can serve multiple platforms. They wanted help streamlining the development of the web-based game. The game needed be developed to allow cross-platform use so that any device can access it. Each game and team name were required to be unique and only one instance of the game is to exist in memory at a time. Each team will be allowed more than one player and the game should allow for one team or more to be playing. 
